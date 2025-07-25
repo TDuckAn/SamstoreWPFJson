@@ -1,0 +1,85 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SamStoreWPFJson/1.0.0": {
+        "dependencies": {
+          "SamStoreWPFJson_Repositories": "1.0.0"
+        },
+        "runtime": {
+          "SamStoreWPFJson.dll": {}
+        }
+      },
+      "SamStoreWPFJson_BOs/1.0.0": {
+        "runtime": {
+          "SamStoreWPFJson_BOs.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SamStoreWPFJson_DAOs/1.0.0": {
+        "dependencies": {
+          "SamStoreWPFJson_BOs": "1.0.0",
+          "SamStoreWPFJson_JSONs": "1.0.0"
+        },
+        "runtime": {
+          "SamStoreWPFJson_DAOs.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SamStoreWPFJson_JSONs/1.0.0": {
+        "runtime": {
+          "SamStoreWPFJson_JSONs.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SamStoreWPFJson_Repositories/1.0.0": {
+        "dependencies": {
+          "SamStoreWPFJson_DAOs": "1.0.0"
+        },
+        "runtime": {
+          "SamStoreWPFJson_Repositories.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SamStoreWPFJson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SamStoreWPFJson_BOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SamStoreWPFJson_DAOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SamStoreWPFJson_JSONs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SamStoreWPFJson_Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

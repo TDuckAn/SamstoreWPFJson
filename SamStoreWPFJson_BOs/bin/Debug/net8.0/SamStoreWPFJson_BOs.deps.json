@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SamStoreWPFJson_BOs/1.0.0": {
+        "runtime": {
+          "SamStoreWPFJson_BOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SamStoreWPFJson_BOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

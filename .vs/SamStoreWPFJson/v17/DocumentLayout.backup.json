@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B95D118-5B7E-4F67-8300-C3DB3784170F}|SamStoreWPFJson_JSONs\\SamStoreWPFJson_JSONs.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson_jsons\\sampreorders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B95D118-5B7E-4F67-8300-C3DB3784170F}|SamStoreWPFJson_JSONs\\SamStoreWPFJson_JSONs.csproj|solutionrelative:samstorewpfjson_jsons\\sampreorders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AE6485-670F-4777-A1E5-4F94D6C8B1F4}|SamStoreWPFJson_DAOs\\SamStoreWPFJson_DAOs.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson_daos\\sampreorderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AE6485-670F-4777-A1E5-4F94D6C8B1F4}|SamStoreWPFJson_DAOs\\SamStoreWPFJson_DAOs.csproj|solutionrelative:samstorewpfjson_daos\\sampreorderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520C3A4A-2463-45A2-9F06-F3D242A9EB01}|SamStoreWPFJson\\SamStoreWPFJson.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson\\ordermanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520C3A4A-2463-45A2-9F06-F3D242A9EB01}|SamStoreWPFJson\\SamStoreWPFJson.csproj|solutionrelative:samstorewpfjson\\ordermanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58718362-542E-45F7-91A3-6245D7D27EF0}|SamStoreWPFJson_Repositories\\SamStoreWPFJson_Repositories.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson_repositories\\interfaces\\isampreorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58718362-542E-45F7-91A3-6245D7D27EF0}|SamStoreWPFJson_Repositories\\SamStoreWPFJson_Repositories.csproj|solutionrelative:samstorewpfjson_repositories\\interfaces\\isampreorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B95D118-5B7E-4F67-8300-C3DB3784170F}|SamStoreWPFJson_JSONs\\SamStoreWPFJson_JSONs.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson_jsons\\members.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B95D118-5B7E-4F67-8300-C3DB3784170F}|SamStoreWPFJson_JSONs\\SamStoreWPFJson_JSONs.csproj|solutionrelative:samstorewpfjson_jsons\\members.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520C3A4A-2463-45A2-9F06-F3D242A9EB01}|SamStoreWPFJson\\SamStoreWPFJson.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520C3A4A-2463-45A2-9F06-F3D242A9EB01}|SamStoreWPFJson\\SamStoreWPFJson.csproj|solutionrelative:samstorewpfjson\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520C3A4A-2463-45A2-9F06-F3D242A9EB01}|SamStoreWPFJson\\SamStoreWPFJson.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson\\ordermanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{520C3A4A-2463-45A2-9F06-F3D242A9EB01}|SamStoreWPFJson\\SamStoreWPFJson.csproj|solutionrelative:samstorewpfjson\\ordermanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0410E52B-0A58-4401-9FD9-6DED59548C0B}|SamStoreWPFJson_BOs\\SamStoreWPFJson_BOs.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson_bos\\sampreorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0410E52B-0A58-4401-9FD9-6DED59548C0B}|SamStoreWPFJson_BOs\\SamStoreWPFJson_BOs.csproj|solutionrelative:samstorewpfjson_bos\\sampreorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58718362-542E-45F7-91A3-6245D7D27EF0}|SamStoreWPFJson_Repositories\\SamStoreWPFJson_Repositories.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson_repositories\\interfaces\\isamproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58718362-542E-45F7-91A3-6245D7D27EF0}|SamStoreWPFJson_Repositories\\SamStoreWPFJson_Repositories.csproj|solutionrelative:samstorewpfjson_repositories\\interfaces\\isamproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B95D118-5B7E-4F67-8300-C3DB3784170F}|SamStoreWPFJson_JSONs\\SamStoreWPFJson_JSONs.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson_jsons\\samproducts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B95D118-5B7E-4F67-8300-C3DB3784170F}|SamStoreWPFJson_JSONs\\SamStoreWPFJson_JSONs.csproj|solutionrelative:samstorewpfjson_jsons\\samproducts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58718362-542E-45F7-91A3-6245D7D27EF0}|SamStoreWPFJson_Repositories\\SamStoreWPFJson_Repositories.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson_repositories\\implements\\sampreorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58718362-542E-45F7-91A3-6245D7D27EF0}|SamStoreWPFJson_Repositories\\SamStoreWPFJson_Repositories.csproj|solutionrelative:samstorewpfjson_repositories\\implements\\sampreorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58718362-542E-45F7-91A3-6245D7D27EF0}|SamStoreWPFJson_Repositories\\SamStoreWPFJson_Repositories.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson_repositories\\implements\\samproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58718362-542E-45F7-91A3-6245D7D27EF0}|SamStoreWPFJson_Repositories\\SamStoreWPFJson_Repositories.csproj|solutionrelative:samstorewpfjson_repositories\\implements\\samproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0410E52B-0A58-4401-9FD9-6DED59548C0B}|SamStoreWPFJson_BOs\\SamStoreWPFJson_BOs.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson_bos\\samproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0410E52B-0A58-4401-9FD9-6DED59548C0B}|SamStoreWPFJson_BOs\\SamStoreWPFJson_BOs.csproj|solutionrelative:samstorewpfjson_bos\\samproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58718362-542E-45F7-91A3-6245D7D27EF0}|SamStoreWPFJson_Repositories\\SamStoreWPFJson_Repositories.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson_repositories\\implements\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58718362-542E-45F7-91A3-6245D7D27EF0}|SamStoreWPFJson_Repositories\\SamStoreWPFJson_Repositories.csproj|solutionrelative:samstorewpfjson_repositories\\implements\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58718362-542E-45F7-91A3-6245D7D27EF0}|SamStoreWPFJson_Repositories\\SamStoreWPFJson_Repositories.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson_repositories\\interfaces\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58718362-542E-45F7-91A3-6245D7D27EF0}|SamStoreWPFJson_Repositories\\SamStoreWPFJson_Repositories.csproj|solutionrelative:samstorewpfjson_repositories\\interfaces\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0410E52B-0A58-4401-9FD9-6DED59548C0B}|SamStoreWPFJson_BOs\\SamStoreWPFJson_BOs.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson_bos\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0410E52B-0A58-4401-9FD9-6DED59548C0B}|SamStoreWPFJson_BOs\\SamStoreWPFJson_BOs.csproj|solutionrelative:samstorewpfjson_bos\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520C3A4A-2463-45A2-9F06-F3D242A9EB01}|SamStoreWPFJson\\SamStoreWPFJson.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{520C3A4A-2463-45A2-9F06-F3D242A9EB01}|SamStoreWPFJson\\SamStoreWPFJson.csproj|solutionrelative:samstorewpfjson\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520C3A4A-2463-45A2-9F06-F3D242A9EB01}|SamStoreWPFJson\\SamStoreWPFJson.csproj|h:\\class\\p_r_n\\samstorewpfjson-20250725t060713z-1-001\\samstorewpfjson\\samstorewpfjson\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{520C3A4A-2463-45A2-9F06-F3D242A9EB01}|SamStoreWPFJson\\SamStoreWPFJson.csproj|solutionrelative:samstorewpfjson\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISamPreOrderRepo.cs",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_Repositories\\Interfaces\\ISamPreOrderRepo.cs",
+              "RelativeDocumentMoniker": "SamStoreWPFJson_Repositories\\Interfaces\\ISamPreOrderRepo.cs",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_Repositories\\Interfaces\\ISamPreOrderRepo.cs",
+              "RelativeToolTip": "SamStoreWPFJson_Repositories\\Interfaces\\ISamPreOrderRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:40:02.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SamPreOrders.json",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_JSONs\\SamPreOrders.json",
+              "RelativeDocumentMoniker": "SamStoreWPFJson_JSONs\\SamPreOrders.json",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_JSONs\\SamPreOrders.json",
+              "RelativeToolTip": "SamStoreWPFJson_JSONs\\SamPreOrders.json",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T15:27:18.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderManagementWindow.xaml.cs",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson\\OrderManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SamStoreWPFJson\\OrderManagementWindow.xaml.cs",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson\\OrderManagementWindow.xaml.cs",
+              "RelativeToolTip": "SamStoreWPFJson\\OrderManagementWindow.xaml.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAEwCMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:06:28.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SamPreOrderDAO.cs",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_DAOs\\SamPreOrderDAO.cs",
+              "RelativeDocumentMoniker": "SamStoreWPFJson_DAOs\\SamPreOrderDAO.cs",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_DAOs\\SamPreOrderDAO.cs",
+              "RelativeToolTip": "SamStoreWPFJson_DAOs\\SamPreOrderDAO.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAEwNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:30:16.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Members.json",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_JSONs\\Members.json",
+              "RelativeDocumentMoniker": "SamStoreWPFJson_JSONs\\Members.json",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_JSONs\\Members.json",
+              "RelativeToolTip": "SamStoreWPFJson_JSONs\\Members.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T15:56:08.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SamStoreWPFJson\\LoginWindow.xaml.cs",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "SamStoreWPFJson\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAC4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:00:09.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderManagementWindow.xaml",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson\\OrderManagementWindow.xaml",
+              "RelativeDocumentMoniker": "SamStoreWPFJson\\OrderManagementWindow.xaml",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson\\OrderManagementWindow.xaml",
+              "RelativeToolTip": "SamStoreWPFJson\\OrderManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T15:00:43.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SamPreOrder.cs",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_BOs\\SamPreOrder.cs",
+              "RelativeDocumentMoniker": "SamStoreWPFJson_BOs\\SamPreOrder.cs",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_BOs\\SamPreOrder.cs",
+              "RelativeToolTip": "SamStoreWPFJson_BOs\\SamPreOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:29:25.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISamProductRepo.cs",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_Repositories\\Interfaces\\ISamProductRepo.cs",
+              "RelativeDocumentMoniker": "SamStoreWPFJson_Repositories\\Interfaces\\ISamProductRepo.cs",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_Repositories\\Interfaces\\ISamProductRepo.cs",
+              "RelativeToolTip": "SamStoreWPFJson_Repositories\\Interfaces\\ISamProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:39:27.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SamProducts.json",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_JSONs\\SamProducts.json",
+              "RelativeDocumentMoniker": "SamStoreWPFJson_JSONs\\SamProducts.json",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_JSONs\\SamProducts.json",
+              "RelativeToolTip": "SamStoreWPFJson_JSONs\\SamProducts.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T15:55:59.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SamProduct.cs",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_BOs\\SamProduct.cs",
+              "RelativeDocumentMoniker": "SamStoreWPFJson_BOs\\SamProduct.cs",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_BOs\\SamProduct.cs",
+              "RelativeToolTip": "SamStoreWPFJson_BOs\\SamProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:29:03.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SamProductRepo.cs",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_Repositories\\Implements\\SamProductRepo.cs",
+              "RelativeDocumentMoniker": "SamStoreWPFJson_Repositories\\Implements\\SamProductRepo.cs",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_Repositories\\Implements\\SamProductRepo.cs",
+              "RelativeToolTip": "SamStoreWPFJson_Repositories\\Implements\\SamProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:40:24.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SamPreOrderRepo.cs",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_Repositories\\Implements\\SamPreOrderRepo.cs",
+              "RelativeDocumentMoniker": "SamStoreWPFJson_Repositories\\Implements\\SamPreOrderRepo.cs",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_Repositories\\Implements\\SamPreOrderRepo.cs",
+              "RelativeToolTip": "SamStoreWPFJson_Repositories\\Implements\\SamPreOrderRepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:41:08.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MemberRepo.cs",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_Repositories\\Implements\\MemberRepo.cs",
+              "RelativeDocumentMoniker": "SamStoreWPFJson_Repositories\\Implements\\MemberRepo.cs",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_Repositories\\Implements\\MemberRepo.cs",
+              "RelativeToolTip": "SamStoreWPFJson_Repositories\\Implements\\MemberRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:04:18.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Member.cs",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_BOs\\Member.cs",
+              "RelativeDocumentMoniker": "SamStoreWPFJson_BOs\\Member.cs",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_BOs\\Member.cs",
+              "RelativeToolTip": "SamStoreWPFJson_BOs\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:28:26.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMemberRepo.cs",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_Repositories\\Interfaces\\IMemberRepo.cs",
+              "RelativeDocumentMoniker": "SamStoreWPFJson_Repositories\\Interfaces\\IMemberRepo.cs",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson_Repositories\\Interfaces\\IMemberRepo.cs",
+              "RelativeToolTip": "SamStoreWPFJson_Repositories\\Interfaces\\IMemberRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:03:35.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "SamStoreWPFJson\\LoginWindow.xaml",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson\\LoginWindow.xaml",
+              "RelativeToolTip": "SamStoreWPFJson\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T14:59:14.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson\\App.xaml",
+              "RelativeDocumentMoniker": "SamStoreWPFJson\\App.xaml",
+              "ToolTip": "H:\\Class\\P_R_N\\SamStoreWPFJson-20250725T060713Z-1-001\\SamStoreWPFJson\\SamStoreWPFJson\\App.xaml",
+              "RelativeToolTip": "SamStoreWPFJson\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T14:47:28.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
