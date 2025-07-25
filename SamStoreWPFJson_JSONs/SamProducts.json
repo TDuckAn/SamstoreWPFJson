@@ -1,0 +1,92 @@
+[
+  {
+    "ProductID": 1,
+    "ProductName": "SamSung S25",
+    "Ram": 8,
+    "Storage": 256,
+    "Price": 1000.00,
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "SamPreOrders": []
+  },
+  {
+    "ProductID": 2,
+    "ProductName": "SamSung S25",
+    "Ram": 8,
+    "Storage": 512,
+    "Price": 1200.00,
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "SamPreOrders": []
+  },
+  {
+    "ProductID": 3,
+    "ProductName": "SamSung S25",
+    "Ram": 8,
+    "Storage": 1024,
+    "Price": 1500.00,
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "SamPreOrders": []
+  },
+  {
+    "ProductID": 4,
+    "ProductName": "SamSung S25 Plus",
+    "Ram": 12,
+    "Storage": 256,
+    "Price": 1100.00,
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "SamPreOrders": []
+  },
+  {
+    "ProductID": 5,
+    "ProductName": "SamSung S25 Plus",
+    "Ram": 12,
+    "Storage": 512,
+    "Price": 1300.00,
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "SamPreOrders": []
+  },
+  {
+    "ProductID": 6,
+    "ProductName": "SamSung S25 Plus",
+    "Ram": 12,
+    "Storage": 1024,
+    "Price": 1600.00,
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "SamPreOrders": []
+  },
+  {
+    "ProductID": 7,
+    "ProductName": "SamSung S25 Ultra",
+    "Ram": 12,
+    "Storage": 256,
+    "Price": 1500.00,
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "SamPreOrders": []
+  },
+  {
+    "ProductID": 8,
+    "ProductName": "SamSung S25 Ultra",
+    "Ram": 12,
+    "Storage": 512,
+    "Price": 1700.00,
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "SamPreOrders": []
+  },
+  {
+    "ProductID": 9,
+    "ProductName": "SamSung S25 Ultra",
+    "Ram": 12,
+    "Storage": 1024,
+    "Price": 1900.00,
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "SamPreOrders": []
+  }
+]

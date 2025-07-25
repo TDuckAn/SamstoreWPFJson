@@ -1,0 +1,163 @@
+[
+  {
+    "PreOrderID": 1,
+    "PreOrderNo": "Sam001",
+    "DepositAmount": 200.00,
+    "TotalAmount": 1000.00,
+    "CustomerName": "David",
+    "CustomerAddress": "Ho Chi Minh",
+    "CustomerPhone": "0757524442",
+    "Status": "active",
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "ProductID": 1,
+    "Product": {
+      "ProductID": 1,
+      "ProductName": "SamSung S25",
+      "Ram": 8,
+      "Storage": 256,
+      "Price": 1000.00,
+      "CreatedAt": "2025-07-20",
+      "UpdatedAt": "2025-07-20",
+      "SamPreOrders": []
+    }
+  },
+  {
+    "PreOrderID": 2,
+    "PreOrderNo": "Sam002",
+    "DepositAmount": 500.00,
+    "TotalAmount": 1900.00,
+    "CustomerName": "An",
+    "CustomerAddress": "Nha Trang",
+    "CustomerPhone": "0756711113",
+    "Status": "active",
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "ProductID": 9,
+    "Product": {
+      "ProductID": 9,
+      "ProductName": "SamSung S25 Ultra",
+      "Ram": 12,
+      "Storage": 1024,
+      "Price": 1900.00,
+      "CreatedAt": "2025-07-20",
+      "UpdatedAt": "2025-07-20",
+      "SamPreOrders": []
+    }
+  },
+  {
+    "PreOrderID": 3,
+    "PreOrderNo": "Sam003",
+    "DepositAmount": 300.00,
+    "TotalAmount": 1500.00,
+    "CustomerName": "Nhu",
+    "CustomerAddress": "Phu Yen",
+    "CustomerPhone": "0902435312",
+    "Status": "active",
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "ProductID": 3,
+    "Product": {
+      "ProductID": 3,
+      "ProductName": "SamSung S25",
+      "Ram": 8,
+      "Storage": 1024,
+      "Price": 1500.00,
+      "CreatedAt": "2025-07-20",
+      "UpdatedAt": "2025-07-20",
+      "SamPreOrders": []
+    }
+  },
+  {
+    "PreOrderID": 4,
+    "PreOrderNo": "Sam004",
+    "DepositAmount": 600.00,
+    "TotalAmount": 1600.00,
+    "CustomerName": "Sang",
+    "CustomerAddress": "Ha Noi",
+    "CustomerPhone": "0904563242",
+    "Status": "active",
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "ProductID": 6,
+    "Product": {
+      "ProductID": 6,
+      "ProductName": "SamSung S25 Plus",
+      "Ram": 12,
+      "Storage": 1024,
+      "Price": 1600.00,
+      "CreatedAt": "2025-07-20",
+      "UpdatedAt": "2025-07-20",
+      "SamPreOrders": []
+    }
+  },
+  {
+    "PreOrderID": 5,
+    "PreOrderNo": "Sam005",
+    "DepositAmount": 900.00,
+    "TotalAmount": 1900.00,
+    "CustomerName": "Minh",
+    "CustomerAddress": "Da Nang",
+    "CustomerPhone": "0987342531",
+    "Status": "active",
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "ProductID": 9,
+    "Product": {
+      "ProductID": 9,
+      "ProductName": "SamSung S25 Ultra",
+      "Ram": 12,
+      "Storage": 1024,
+      "Price": 1900.00,
+      "CreatedAt": "2025-07-20",
+      "UpdatedAt": "2025-07-20",
+      "SamPreOrders": []
+    }
+  },
+  {
+    "PreOrderID": 6,
+    "PreOrderNo": "Sam006",
+    "DepositAmount": 900.00,
+    "TotalAmount": 1900.00,
+    "CustomerName": "Cam",
+    "CustomerAddress": "Ninh Thuan",
+    "CustomerPhone": "0923424134",
+    "Status": "cancel",
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "ProductID": 9,
+    "Product": {
+      "ProductID": 9,
+      "ProductName": "SamSung S25 Ultra",
+      "Ram": 12,
+      "Storage": 1024,
+      "Price": 1900.00,
+      "CreatedAt": "2025-07-20",
+      "UpdatedAt": "2025-07-20",
+      "SamPreOrders": []
+    }
+  },
+  {
+    "PreOrderID": 7,
+    "PreOrderNo": "Sam007",
+    "DepositAmount": 400.00,
+    "TotalAmount": 1300.00,
+    "CustomerName": "Trang",
+    "CustomerAddress": "Can Tho",
+    "CustomerPhone": "0987653432",
+    "Status": "active",
+    "CreatedAt": "2025-07-20",
+    "UpdatedAt": "2025-07-20",
+    "ProductID": 5,
+    "Product": {
+      "ProductID": 5,
+      "ProductName": "SamSung S25 Plus",
+      "Ram": 12,
+      "Storage": 512,
+      "Price": 1300.00,
+      "CreatedAt": "2025-07-20",
+      "UpdatedAt": "2025-07-20",
+      "SamPreOrders": []
+    }
+  }
+]

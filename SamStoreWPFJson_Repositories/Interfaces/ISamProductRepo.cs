@@ -1,0 +1,14 @@
+﻿using SamStoreWPFJson_BOs;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SamStoreWPFJson_Repositories.Interfaces
+{
+    public interface ISamProductRepo
+    {
+        List<SamProduct> GetAllProducts();
+    }
+}

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SamStoreWPFJson_BOs\SamStoreWPFJson_BOs.csproj" />
+    <ProjectReference Include="..\SamStoreWPFJson_JSONs\SamStoreWPFJson_JSONs.csproj" />
+  </ItemGroup>
+
+</Project>

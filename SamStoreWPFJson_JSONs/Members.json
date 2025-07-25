@@ -1,0 +1,34 @@
+[
+  {
+    "MemberID": "admin",
+    "FullName": "Admin User",
+    "Email": "admin@sam.com",
+    "Password": "234@",
+    "Status": "active",
+    "RoleID": 1
+  },
+  {
+    "MemberID": "staff",
+    "FullName": "Staff User",
+    "Email": "staff@sam.com",
+    "Password": "234@",
+    "Status": "active",
+    "RoleID": 2
+  },
+  {
+    "MemberID": "member",
+    "FullName": "Member User",
+    "Email": "member@sam.com",
+    "Password": "234@",
+    "Status": "active",
+    "RoleID": 3
+  },
+  {
+    "MemberID": "superadmin",
+    "FullName": "Super Admin",
+    "Email": "superadmin@sam.com",
+    "Password": "234@",
+    "Status": "active",
+    "RoleID": 1
+  }
+]
